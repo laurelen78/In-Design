@@ -1,0 +1,92 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:KeepCalm-Medium
+FamilyName:Keep Calm
+StyleName:Regular
+MenuName:Keep Calm Med
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Keep Calm Medium
+WritingScript:Roman
+OutlineFileName:\KeepCalm-Medium.ttf
+DataFormat:sfntData
+FileLength:86716
+FileModTime:1427210764
+NameArray:0,Mac,4,Keep Calm Medium
+NameArray:0,Win,1,Keep Calm Med
+NameArray:0,Win,16,Keep Calm
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OctoberCrow
+FamilyName:October Crow
+StyleName:Regular
+MenuName:October Crow
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:October Crow
+WritingScript:Roman
+OutlineFileName:\October Crow.ttf
+DataFormat:sfntData
+FileLength:185256
+FileModTime:1290831372
+NameArray:0,Mac,4,October Crow
+NameArray:0,Win,1,October Crow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:VintageAvalanche-Black
+FamilyName:Vintage Avalanche
+StyleName:Black
+MenuName:Vintage Avalanche
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Vintage Avalanche Black
+WritingScript:Roman
+OutlineFileName:\Vintage Avalanche Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:40152
+FileModTime:1490379988
+NameArray:0,Mac,4,Vintage Avalanche Black
+NameArray:0,Win,1,Vintage Avalanche
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:VintageAvalanche-Regular
+FamilyName:Vintage Avalanche
+StyleName:Regular
+MenuName:Vintage Avalanche
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Vintage Avalanche
+WritingScript:Roman
+OutlineFileName:\Vintage Avalanche.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28100
+FileModTime:1481045652
+NameArray:0,Mac,4,Vintage Avalanche
+NameArray:0,Win,1,Vintage Avalanche
+%EndFont
+
